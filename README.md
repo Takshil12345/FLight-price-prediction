@@ -1,2 +1,2 @@
 # flight-price-predictor
-Naman vansh Abhi Takshil
+Naman Vansh Abhiruddha Takshil
